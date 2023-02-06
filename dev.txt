@@ -1,0 +1,2 @@
+[DEFAULT]
+date = 60
